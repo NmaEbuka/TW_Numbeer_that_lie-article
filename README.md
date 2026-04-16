@@ -33,4 +33,5 @@ I didn't want the article to be too technical. I wanted it in simple terms and u
   The analyst is not being dishonest. The figures might be mathematically correct, but not suitable for the decisions that need to be made.
 
 ## Final Output:
-Read the full article here: ()
+Read the full article here: (https://medium.com/@chukwuebukachidinma/numbers-that-lie-what-your-reports-are-really-telling-you-351fe5e98927) 
+
